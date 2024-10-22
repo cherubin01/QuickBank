@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747231200141",
+    "project_id": "professional-banking-system",
+    "storage_bucket": "professional-banking-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747231200141:android:6c75dad7fd82934c8873c4",
+        "android_client_info": {
+          "package_name": "com.example.professionalbankingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Fhl0fU982PsjCJYUiQNef30rEdia_is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
